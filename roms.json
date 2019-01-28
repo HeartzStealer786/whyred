@@ -14,7 +14,7 @@
 		"android": "9.0"
 	},
        "arrowmod": {
-                "xda": *NONE*,
+                "xda": "None",
                 "download_link": "https://sourceforge.net/projects/arrowosmod-whyred/files/first/Arrow-v9.0-whyred-OFFICIAL-20190128.zip/download",
                 "latest_build": "28-01-2019"
                 "maintainer": "@asadali00786 and @Nahseez"
