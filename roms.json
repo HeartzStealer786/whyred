@@ -4,20 +4,23 @@
 		"download_link": "https://sourceforge.net/projects/aicp-pie/files/aicp_whyred_p-14.0-UNOFFICIAL-20190119.zip/download",
 		"latest_build": "19-01-2019",
 		"maintainer": "@atulsingh",
-		"android": "9.0"
+		"android": "9.0",
+		"build_type": "unofficial"
 	},
 	"syberiafe": {
 		"xda": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-syberia-project-t3862355",
 		"download_link": "https://sourceforge.net/projects/syberia-whyred/files/syberia_whyred-v2.2-20190127-1615-FAN_EDITION.zip/download",
 		"latest_build": "28-01-2019",
 		"maintainer": "@RashedSahaji",
-		"android": "9.0"
+		"android": "9.0",
+		"build_type": "unofficial"
 	},
        "arrowmod": {
-                "xda": "None",
-                "download_link": "https://sourceforge.net/projects/arrowosmod-whyred/files/first/Arrow-v9.0-whyred-OFFICIAL-20190128.zip/download",
-                "latest_build": "28-01-2019",
-                "maintainer": "@asadali00786 and @Nahseez",
-                "android": "9.0"
+               "xda": "None",
+               "download_link": "https://sourceforge.net/projects/arrowosmod-whyred/files/first/Arrow-v9.0-whyred-OFFICIAL-20190128.zip/download",
+               "latest_build": "28-01-2019",
+               "maintainer": "@asadali00786 and @Nahseez",
+               "android": "9.0",
+	       "build_type": "unofficial"
        }
 }
